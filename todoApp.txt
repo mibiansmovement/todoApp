@@ -1,0 +1,24 @@
+We want to assign new tasks
+We want to be able to delete tasks
+We want to be able to mark tasks as completed
+We want to be able to unmark tasks as completed
+
+Structure:
+    I want three columns
+        a.  Tasks name
+        b.  Task created date and time
+        c.  Task status(Check box)
+
+
+
+
+
+Project has been expanded
+Name is: SPace
+Will Contain
+    Todo App
+    Notes/Diary
+    Contacts
+
+register page
+    
